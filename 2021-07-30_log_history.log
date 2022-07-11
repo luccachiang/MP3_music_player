@@ -1,0 +1,61 @@
+[2021-07-30 14:20:12]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  37   path:  initial all songs in the form of .mp3 suffix
+[2021-07-30 14:20:12]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  42   path:  initial all lists in the form of .txt suffix
+[2021-07-30 14:20:12]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  48   initial and update songs stored locally and listfiles
+[2021-07-30 14:20:14]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  690   print all songs
+[2021-07-30 14:20:15]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  76   move to all songs menu
+[2021-07-30 14:20:15]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  54   return to mainmenu
+[2021-07-30 14:20:17]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  125   exit mp3 program sucessfully
+[2021-07-30 14:27:23]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  37   path:  initial all songs in the form of .mp3 suffix
+[2021-07-30 14:27:23]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  42   path:  initial all lists in the form of .txt suffix
+[2021-07-30 14:27:23]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  48   initial and update songs stored locally and listfiles
+[2021-07-30 14:27:24]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  690   print all songs
+[2021-07-30 14:27:26]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  713   play music named  一路向北 .mp3  
+[2021-07-30 14:27:26]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  713   read lyric named  一路向北 .mp3  
+[2021-07-30 14:27:26]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  76   move to all songs menu
+[2021-07-30 14:27:32]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  238   music fastforward by 5 seconds
+[2021-07-30 14:28:48]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  37   path:  initial all songs in the form of .mp3 suffix
+[2021-07-30 14:28:48]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  42   path:  initial all lists in the form of .txt suffix
+[2021-07-30 14:28:48]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  48   initial and update songs stored locally and listfiles
+[2021-07-30 14:28:53]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  54   return to mainmenu
+[2021-07-30 14:28:53]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  690   print all songs
+[2021-07-30 14:28:55]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  713   play music named  一路向北 .mp3  
+[2021-07-30 14:28:55]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  713   read lyric named  一路向北 .mp3  
+[2021-07-30 14:28:55]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  76   move to all songs menu
+[2021-07-30 14:29:03]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  238   music fastforward by 5 seconds
+[2021-07-30 14:29:07]-[ERROR]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>   LINE:  310   music open failed
+[2021-07-30 14:29:07]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  179   play music named  起风了.mp3  
+[2021-07-30 14:29:07]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  180   read lyric named  起风了.mp3  
+[2021-07-30 14:29:10]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  228   music volume up
+[2021-07-30 14:29:11]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  233   music volume down
+[2021-07-30 14:29:13]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  242   music fastbackward by 5 seconds
+[2021-07-30 14:29:15]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  242   music fastbackward by 5 seconds
+[2021-07-30 14:29:16]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  242   music fastbackward by 5 seconds
+[2021-07-30 14:29:17]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  242   music fastbackward by 5 seconds
+[2021-07-30 14:29:22]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  326   music pause
+[2021-07-30 14:29:28]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  238   music fastforward by 5 seconds
+[2021-07-30 14:29:32]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  238   music fastforward by 5 seconds
+[2021-07-30 14:29:34]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  242   music fastbackward by 5 seconds
+[2021-07-30 14:29:41]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  242   music fastbackward by 5 seconds
+[2021-07-30 14:29:55]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  792   open  1  list sucessfully
+[2021-07-30 14:29:55]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  869   print  1  list named 111.txt
+[2021-07-30 14:29:58]-[ERROR]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>   LINE:  310   music open failed
+[2021-07-30 14:29:58]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  906   play music named  起风了.mp3  
+[2021-07-30 14:29:58]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  906   read lyric named  起风了.mp3  
+[2021-07-30 14:29:58]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  80   move to my playlist menu
+[2021-07-30 14:30:04]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  238   music fastforward by 5 seconds
+[2021-07-30 14:30:06]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  125   exit mp3 program sucessfully
+[2021-07-30 14:31:50]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  37   path:  initial all songs in the form of .mp3 suffix
+[2021-07-30 14:31:50]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  42   path:  initial all lists in the form of .txt suffix
+[2021-07-30 14:31:50]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  48   initial and update songs stored locally and listfiles
+[2021-07-30 14:31:51]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  690   print all songs
+[2021-07-30 14:31:53]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  713   play music named  一路向北 .mp3  
+[2021-07-30 14:31:53]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  713   read lyric named  一路向北 .mp3  
+[2021-07-30 14:31:53]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  76   move to all songs menu
+[2021-07-30 14:31:58]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  242   music fastforward by 5 seconds
+[2021-07-30 14:32:00]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  246   music fastbackward by 5 seconds
+[2021-07-30 14:32:02]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  129   exit mp3 program sucessfully
+[2021-07-30 14:32:14]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  37   path:  initial all songs in the form of .mp3 suffix
+[2021-07-30 14:32:14]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  42   path:  initial all lists in the form of .txt suffix
+[2021-07-30 14:32:14]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  48   initial and update songs stored locally and listfiles
+[2021-07-30 14:32:18]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  54   return to mainmenu
+[2021-07-30 14:32:19]-[INFO]-[D:\VS programmes\MusicPlayer 8.0 FINAL\MusicPlayer8.0.h] :>      LINE:  129   exit mp3 program sucessfully
