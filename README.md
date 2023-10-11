@@ -1,5 +1,6 @@
 # MP3_music_player
 This is an MP3 project based on C. Core files are `MusicPlayer.cpp` and `MusicPlayer.h`.
+
 ![alt main page](assets/imgs/main.png)
 
 ## Functional Requirements Realized
